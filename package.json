@@ -1,0 +1,12 @@
+{
+  "name": "output-nextjs-pages-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "hello": "./bin/index.js"
+  }
+}
